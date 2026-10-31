@@ -1,0 +1,1 @@
+# API Inventory\n\nDocument discovered routes, methods, auth requirements, request/response types, and owning modules. Do not include secrets or sensitive sample data.\n

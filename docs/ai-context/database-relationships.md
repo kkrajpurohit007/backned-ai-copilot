@@ -1,0 +1,1 @@
+# Database Relationships\n\nDocument entities, tables, migrations, ownership, and transaction notes supported by source evidence.\n

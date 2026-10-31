@@ -1,0 +1,1 @@
+# Architecture Decisions\n\nAdd ADRs with context, decision, alternatives, consequences, and evidence.\n

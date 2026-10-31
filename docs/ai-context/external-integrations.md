@@ -1,0 +1,1 @@
+# External Integrations\n\nDocument clients, contracts, events, dependencies, timeouts/retries, and failure handling.\n

@@ -1,0 +1,1 @@
+# AWS Infrastructure Map\n\nDocument AWS resources only where source/IaC/deployment evidence exists. Redact sensitive configuration.\n

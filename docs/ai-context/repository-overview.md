@@ -1,0 +1,1 @@
+# Repository Overview\n\nGenerated context goes here. Populate from source evidence; include stack, purpose, modules, entry points, and last-reviewed commit/date. Mark stale context.\n
